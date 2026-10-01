@@ -1,0 +1,10 @@
+feature,auc_drop_mean,auc_drop_std
+channel,0.0842,0.0103
+deal_type,0.0634,0.0113
+size_segment,0.0031,0.0041
+product,0.0026,0.0018
+log_amount,0.0021,0.0006
+log_employees,0.0013,0.0003
+region,0.0011,0.0005
+sector,-0.0013,0.0046
+partner_type,-0.0058,0.0026

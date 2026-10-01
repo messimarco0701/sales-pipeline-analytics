@@ -1,0 +1,206 @@
+deal_id,deal_name,channel,deal_type,size_segment,stage,amount,p_win_model,p_win_from_stage,weighted_amount,days_in_stage,is_stuck
+3997,PONTI CONSTRUCTION | CORE | 2026,Referral,Upsell,Medium,Negotiation,3030.0,0.756,0.625,1893.0,4,False
+4182,GIANNONE FINANCE | CORE | 2026,Referral,Upsell,Small,Discovery,1200.0,0.753,0.314,377.0,1,False
+4198,VERGASSOLA HEALTHCARE | FLEX | 2026,Referral,Upsell,Small,Discovery,1200.0,0.728,0.314,377.0,0,False
+4099,PALMISANO RETAIL | CORE | 2026,Referral,Upsell,Small,Negotiation,1200.0,0.725,0.625,750.0,2,False
+4155,CAPONE FOOD | CORE | 2026,Referral,Upsell,Small,Qualified,1200.0,0.717,0.405,486.0,4,False
+4190,GALEATI MANUFACTURING | CORE | 2026,Referral,Upsell,Small,Discovery,1200.0,0.715,0.314,377.0,1,False
+4160,MERCADANTE HOSPITALITY | CORE | 2026,Referral,Upsell,Small,Discovery,1200.0,0.684,0.314,377.0,4,False
+3966,BLASI LOGISTICS | CORE | 2026,Referral,Upsell,Micro,Negotiation,1200.0,0.671,0.625,750.0,15,False
+4038,FERRETTI FOOD | CORE | 2026,Referral,Upsell,Small,Qualified,1200.0,0.67,0.405,486.0,8,False
+3863,FAGOTTO PROFESSIONAL | FLEX | 2026,Referral,Upsell,Large,Negotiation,9940.0,0.619,0.625,6211.0,31,False
+4156,FAGOTTO PROFESSIONAL | FLEX | 2026,Referral,Upsell,Large,Discovery,7700.0,0.615,0.314,2417.0,5,False
+4078,MAGLIO RETAIL | FLEX | 2026,Partner,Upsell,Small,Proposal,1200.0,0.604,0.503,603.0,11,False
+4191,MARENZIO HOSPITALITY | FLEX | 2026,Referral,New business,Medium,Discovery,13390.0,0.574,0.314,4203.0,0,False
+4061,LOLLOBRIGIDA HEALTHCARE | FLEX | 2026,Partner,Upsell,Small,Proposal,1200.0,0.559,0.503,603.0,7,False
+4194,NAPOLITANO FOOD | CORE | 2026,Partner,Upsell,Small,Discovery,1200.0,0.559,0.314,377.0,0,False
+4171,MODIGLIANI FINANCE | PREMIUM | 2026,Partner,Upsell,Medium,Discovery,9250.0,0.556,0.314,2904.0,2,False
+4022,NORDIO CONSTRUCTION | PREMIUM | 2026,Referral,Upsell,Large,Qualified,13020.0,0.548,0.405,5275.0,10,False
+4071,CONTARINI CONSTRUCTION | PREMIUM | 2026,Referral,New business,Small,Qualified,4640.0,0.541,0.405,1880.0,10,False
+4095,BUSONI HOSPITALITY | FLEX | 2026,Referral,New business,Small,Proposal,4370.0,0.539,0.503,2196.0,1,False
+4179,TAMBORINI FOOD | FLEX | 2026,Partner,Upsell,Small,Qualified,1200.0,0.538,0.405,486.0,0,False
+4161,BIGNARDI IT | CORE | 2026,Partner,Upsell,Small,Qualified,1200.0,0.536,0.405,486.0,3,False
+4077,GULLOTTA FOOD | CORE | 2026,Partner,Upsell,Small,Qualified,1200.0,0.535,0.405,486.0,7,False
+4154,ZAMPA PROFESSIONAL | FLEX | 2026,Referral,New business,Medium,Discovery,9270.0,0.531,0.314,2910.0,5,False
+4013,VISINTINI PROFESSIONAL | FLEX | 2026,Referral,New business,Medium,Discovery,11540.0,0.529,0.314,3622.0,23,False
+3849,MOCENIGO FOOD | FLEX | 2026,Referral,New business,Small,Negotiation,1600.0,0.529,0.625,1000.0,42,True
+3971,ARGAN FINANCE | FLEX | 2026,Referral,New business,Small,Negotiation,2330.0,0.528,0.625,1456.0,5,False
+4123,BERTOLI MANUFACTURING | FLEX | 2026,Referral,New business,Small,Discovery,1370.0,0.525,0.314,430.0,8,False
+3907,VISINTINI FINANCE | CORE | 2026,Referral,New business,Medium,Negotiation,7780.0,0.523,0.625,4861.0,1,False
+4105,CARPACCIO HEALTHCARE | CORE | 2026,Referral,New business,Small,Qualified,1200.0,0.52,0.405,486.0,7,False
+4175,MANTEGAZZA IT | CORE | 2026,Referral,New business,Medium,Discovery,6970.0,0.519,0.314,2188.0,1,False
+4173,TALIANI LOGISTICS | CORE | 2026,Partner,Upsell,Small,Discovery,1200.0,0.517,0.314,377.0,1,False
+3792,CONDOLEO PROFESSIONAL | FLEX | 2026,Referral,New business,Small,Negotiation,2480.0,0.516,0.625,1550.0,1,False
+3685,RUBERTO HEALTHCARE | FLEX | 2026,Referral,New business,Medium,Negotiation,27330.0,0.511,0.625,17076.0,35,False
+3970,MORPURGO FINANCE | CORE | 2026,Referral,New business,Small,Negotiation,2060.0,0.511,0.625,1287.0,16,False
+4196,BOITO RETAIL | CORE | 2026,Partner,Upsell,Medium,Discovery,2200.0,0.51,0.314,691.0,0,False
+3994,PAOLUCCI HOSPITALITY | FLEX | 2026,Referral,New business,Medium,Discovery,9780.0,0.509,0.314,3070.0,28,False
+4084,LERCARI LOGISTICS | CORE | 2026,Referral,New business,Small,Discovery,1200.0,0.505,0.314,377.0,14,False
+4164,POLANI FOOD | CORE | 2026,Referral,New business,Medium,Discovery,7450.0,0.504,0.314,2338.0,2,False
+4172,BERRÈ HEALTHCARE | CORE | 2026,Referral,New business,Small,Discovery,1200.0,0.503,0.314,377.0,2,False
+4137,ROTH PROFESSIONAL | CORE | 2026,Partner,Upsell,Small,Qualified,1200.0,0.496,0.405,486.0,1,False
+4184,SGALAMBRO MANUFACTURING | CORE | 2026,Referral,New business,Small,Discovery,2270.0,0.482,0.314,713.0,1,False
+3956,CIMINI IT | CORE | 2026,Referral,New business,Small,Negotiation,1200.0,0.478,0.625,750.0,11,False
+3992,MALATESTA FOOD | CORE | 2026,Partner,Upsell,Medium,Negotiation,1200.0,0.471,0.625,750.0,5,False
+4118,PIOVANI FINANCE | FLEX | 2026,Referral,New business,Micro,Proposal,1200.0,0.464,0.503,603.0,0,False
+4129,MARENZIO IT | FLEX | 2026,Direct,Upsell,Small,Discovery,1200.0,0.463,0.314,377.0,8,False
+4181,MISSONI IT | FLEX | 2026,Partner,Upsell,Small,Discovery,1200.0,0.46,0.314,377.0,1,False
+4166,NAVARRIA RETAIL | PREMIUM | 2026,Referral,New business,Small,Discovery,2960.0,0.46,0.314,929.0,2,False
+3737,MINIATI PROFESSIONAL | PREMIUM | 2026,Referral,New business,Medium,Negotiation,14420.0,0.459,0.625,9010.0,55,False
+4087,PASQUA HOSPITALITY | FLEX | 2026,Direct,Upsell,Small,Qualified,1590.0,0.455,0.405,644.0,12,False
+4131,BERTOLI HOSPITALITY | FLEX | 2026,Direct,Upsell,Medium,Discovery,5200.0,0.455,0.314,1632.0,7,False
+4083,FO CONSTRUCTION | CORE | 2026,Referral,New business,Micro,Proposal,1200.0,0.454,0.503,603.0,0,False
+3432,SORRENTINO PROFESSIONAL | FLEX | 2026,Referral,New business,Large,Negotiation,28360.0,0.451,0.625,17720.0,84,True
+4041,FRESCOBALDI FINANCE | FLEX | 2026,Referral,New business,Micro,Qualified,1200.0,0.451,0.405,486.0,0,False
+4088,PASQUA HOSPITALITY | CORE | 2026,Direct,Upsell,Small,Discovery,1200.0,0.449,0.314,377.0,13,False
+4124,BAROZZI FOOD | FLEX | 2026,Direct,Upsell,Small,Discovery,1200.0,0.448,0.314,377.0,8,False
+4192,MANACORDA CONSTRUCTION | CORE | 2026,Direct,Upsell,Small,Discovery,1200.0,0.446,0.314,377.0,0,False
+4152,BECCHERIA FINANCE | FLEX | 2026,Partner,Upsell,Micro,Discovery,1200.0,0.435,0.314,377.0,6,False
+4151,TARTINI CONSTRUCTION | CORE | 2026,Referral,New business,Large,Discovery,25010.0,0.432,0.314,7850.0,6,False
+4134,BERRÈ HOSPITALITY | PREMIUM | 2026,Partner,Upsell,Large,Qualified,20190.0,0.43,0.405,8180.0,6,False
+4107,BABATO HEALTHCARE | CORE | 2026,Partner,Upsell,Micro,Negotiation,1200.0,0.427,0.625,750.0,0,False
+3859,MUNARI RETAIL | PREMIUM | 2026,Direct,Upsell,Medium,Discovery,9060.0,0.42,0.314,2844.0,79,True
+3948,ZOPPETTI HOSPITALITY | CORE | 2026,Direct,Upsell,Medium,Qualified,2070.0,0.419,0.405,839.0,32,False
+4032,AMATO MANUFACTURING | CORE | 2026,Direct,Upsell,Medium,Qualified,5060.0,0.416,0.405,2050.0,19,False
+3980,MONTI RETAIL | PREMIUM | 2026,Direct,Upsell,Medium,Negotiation,10150.0,0.414,0.625,6342.0,4,False
+4162,BARTOLI MANUFACTURING | PREMIUM | 2026,Referral,New business,Micro,Discovery,1200.0,0.413,0.314,377.0,3,False
+4028,SALANDRA LOGISTICS | FLEX | 2026,Direct,Upsell,Small,Proposal,1200.0,0.407,0.503,603.0,4,False
+3967,MEUCCI HEALTHCARE | CORE | 2026,Direct,Upsell,Small,Proposal,1200.0,0.399,0.503,603.0,5,False
+4062,PAGLIARO LOGISTICS | FLEX | 2026,Partner,Upsell,Large,Qualified,14180.0,0.397,0.405,5745.0,5,False
+3890,PICCINNI RETAIL | FLEX | 2026,Referral,New business,Large,Negotiation,30410.0,0.397,0.625,19001.0,14,False
+4109,CAPONE CONSTRUCTION | FLEX | 2026,Direct,Upsell,Small,Discovery,1200.0,0.395,0.314,377.0,9,False
+4130,BRANCIFORTE FOOD | CORE | 2026,Direct,Upsell,Medium,Qualified,1200.0,0.385,0.405,486.0,4,False
+3781,ONIO HOSPITALITY | CORE | 2026,Referral,New business,Large,Qualified,44880.0,0.385,0.405,18184.0,63,False
+4042,ANGUISSOLA IT | FLEX | 2026,Partner,New business,Small,Proposal,3700.0,0.383,0.503,1860.0,10,False
+4174,SALVEMINI RETAIL | CORE | 2026,Direct,Upsell,Medium,Discovery,1260.0,0.382,0.314,396.0,1,False
+4141,CILEA LOGISTICS | CORE | 2026,Direct,Upsell,Medium,Qualified,1410.0,0.382,0.405,571.0,1,False
+4108,TASCA PROFESSIONAL | FLEX | 2026,Direct,Upsell,Small,Discovery,1200.0,0.379,0.314,377.0,9,False
+4093,BAJAMONTI RETAIL | CORE | 2026,Partner,New business,Small,Qualified,2030.0,0.37,0.405,822.0,1,False
+4036,FUSANI HEALTHCARE | FLEX | 2026,Direct,Upsell,Medium,Negotiation,3730.0,0.368,0.625,2331.0,8,False
+4104,TOSCANINI LOGISTICS | CORE | 2026,Direct,Upsell,Small,Proposal,1200.0,0.367,0.503,603.0,1,False
+4097,IOPPI PROFESSIONAL | PREMIUM | 2026,Direct,Upsell,Medium,Qualified,4440.0,0.367,0.405,1799.0,11,False
+4195,SINISI HEALTHCARE | FLEX | 2026,Partner,New business,Medium,Discovery,7240.0,0.366,0.314,2273.0,0,False
+4098,BODONI RETAIL | CORE | 2026,Direct,Upsell,Small,Proposal,1200.0,0.363,0.503,603.0,1,False
+3950,GARGALLO MANUFACTURING | CORE | 2026,Partner,New business,Small,Negotiation,1670.0,0.361,0.625,1043.0,1,False
+4193,VERGASSOLA CONSTRUCTION | CORE | 2026,Partner,New business,Small,Discovery,1200.0,0.351,0.314,377.0,0,False
+3326,BEMBO MANUFACTURING | PREMIUM | 2026,Referral,New business,Large,Negotiation,45520.0,0.35,0.625,28441.0,3,False
+3932,VERDONE MANUFACTURING | CORE | 2026,Partner,New business,Medium,Negotiation,10050.0,0.349,0.625,6279.0,19,False
+4140,MUNARI HEALTHCARE | CORE | 2026,Partner,Upsell,Large,Qualified,6880.0,0.347,0.405,2788.0,6,False
+4086,ANGUISSOLA IT | PREMIUM | 2026,Direct,Upsell,Medium,Qualified,3940.0,0.346,0.405,1596.0,1,False
+4035,PRATI FOOD | CORE | 2026,Partner,New business,Medium,Discovery,3610.0,0.344,0.314,1133.0,20,False
+3959,GOLGI FOOD | FLEX | 2026,Partner,New business,Medium,Proposal,8950.0,0.339,0.503,4498.0,1,False
+3937,MONDADORI FOOD | CORE | 2026,Partner,New business,Medium,Qualified,2720.0,0.334,0.405,1102.0,7,False
+4050,ARIASSO PROFESSIONAL | CORE | 2026,Partner,New business,Small,Proposal,1200.0,0.333,0.503,603.0,14,False
+4015,FUSANI FOOD | FLEX | 2026,Partner,New business,Medium,Proposal,16340.0,0.333,0.503,8213.0,9,False
+4074,MAZZACURATI HEALTHCARE | FLEX | 2026,Partner,New business,Small,Proposal,2590.0,0.333,0.503,1302.0,5,False
+4066,MORETTI IT | CORE | 2026,Partner,New business,Small,Discovery,1200.0,0.333,0.314,377.0,15,False
+4167,FIBONACCI FOOD | CORE | 2026,Direct,Upsell,Micro,Discovery,1200.0,0.331,0.314,377.0,2,False
+4005,PERANDA LOGISTICS | FLEX | 2026,Partner,New business,Medium,Qualified,8640.0,0.328,0.405,3501.0,20,False
+3705,SCARPONI FOOD | CORE | 2026,Partner,New business,Small,Negotiation,1800.0,0.328,0.625,1125.0,65,True
+3942,LOMBARDO FOOD | CORE | 2026,Partner,New business,Medium,Qualified,7110.0,0.327,0.405,2881.0,20,False
+4085,NORDIO HEALTHCARE | CORE | 2026,Partner,New business,Medium,Qualified,8830.0,0.326,0.405,3578.0,0,False
+4177,SIBILIA LOGISTICS | FLEX | 2026,Partner,New business,Medium,Discovery,10050.0,0.323,0.314,3155.0,1,False
+4159,TROBBIANI FOOD | CORE | 2026,Partner,New business,Medium,Discovery,11200.0,0.321,0.314,3516.0,5,False
+4034,GIUNTI FINANCE | PREMIUM | 2026,Partner,Upsell,Large,Discovery,14060.0,0.319,0.314,4413.0,20,False
+3827,ORSINI HOSPITALITY | FLEX | 2026,Partner,New business,Medium,Qualified,4880.0,0.318,0.405,1977.0,71,True
+3936,COLLODI HOSPITALITY | FLEX | 2026,Partner,New business,Medium,Proposal,7350.0,0.318,0.503,3694.0,40,True
+3973,GUIDONE MANUFACTURING | CORE | 2026,Partner,New business,Small,Qualified,1200.0,0.317,0.405,486.0,3,False
+3895,MERCATI IT | CORE | 2026,Partner,New business,Medium,Qualified,8350.0,0.316,0.405,3383.0,31,False
+4168,FANTINI RETAIL | PREMIUM | 2026,Partner,New business,Small,Discovery,1930.0,0.314,0.314,606.0,2,False
+4185,OFFREDI PROFESSIONAL | CORE | 2026,Partner,New business,Small,Discovery,2210.0,0.314,0.314,694.0,1,False
+3963,BAJAMONTI MANUFACTURING | CORE | 2026,Partner,New business,Small,Proposal,1200.0,0.314,0.503,603.0,20,False
+4012,SALGARI IT | CORE | 2026,Partner,New business,Medium,Discovery,4610.0,0.309,0.314,1447.0,24,False
+4170,OPIZZI FINANCE | FLEX | 2026,Partner,New business,Small,Discovery,1200.0,0.308,0.314,377.0,2,False
+4157,MANTEGAZZA IT | CORE | 2026,Partner,New business,Medium,Qualified,7030.0,0.307,0.405,2848.0,4,False
+4049,MARANGONI PROFESSIONAL | CORE | 2026,Partner,New business,Medium,Qualified,6510.0,0.306,0.405,2638.0,8,False
+4146,CALGARI LOGISTICS | CORE | 2026,Partner,New business,Small,Discovery,1200.0,0.306,0.314,377.0,6,False
+3987,GAGLIANO PROFESSIONAL | CORE | 2026,Partner,New business,Small,Qualified,1640.0,0.306,0.405,664.0,4,False
+3978,LEBLANC LOGISTICS | CORE | 2026,Partner,New business,Small,Proposal,1200.0,0.305,0.503,603.0,13,False
+3929,VOLTERRA HOSPITALITY | CORE | 2026,Partner,New business,Micro,Negotiation,1200.0,0.304,0.625,750.0,34,True
+4153,PERTINI RETAIL | CORE | 2026,Partner,New business,Small,Discovery,1200.0,0.304,0.314,377.0,6,False
+4051,VOLTERRA HOSPITALITY | CORE | 2026,Partner,New business,Micro,Negotiation,1200.0,0.304,0.625,750.0,15,False
+4163,PELLICO FOOD | FLEX | 2026,Partner,New business,Small,Qualified,2560.0,0.304,0.405,1037.0,1,False
+4135,CHINDAMO CONSTRUCTION | FLEX | 2026,Direct,Upsell,Micro,Discovery,1200.0,0.303,0.314,377.0,7,False
+4046,BENUSSI CONSTRUCTION | CORE | 2026,Partner,New business,Micro,Negotiation,1200.0,0.302,0.625,750.0,0,False
+3977,ARGAN HEALTHCARE | FLEX | 2026,Partner,New business,Medium,Proposal,6130.0,0.3,0.503,3081.0,20,False
+3841,BAZZI MANUFACTURING | FLEX | 2026,Partner,New business,Medium,Negotiation,14330.0,0.299,0.625,8954.0,7,False
+4197,RAIMONDI PROFESSIONAL | PREMIUM | 2026,Partner,New business,Small,Discovery,5080.0,0.296,0.314,1595.0,0,False
+4001,CILEA PROFESSIONAL | CORE | 2026,Partner,New business,Medium,Proposal,8740.0,0.293,0.503,4393.0,11,False
+4106,FIERAMOSCA CONSTRUCTION | CORE | 2026,Partner,New business,Small,Qualified,1200.0,0.293,0.405,486.0,5,False
+4148,GULOTTA LOGISTICS | CORE | 2026,Partner,New business,Micro,Qualified,1200.0,0.292,0.405,486.0,4,False
+3983,GELLI FOOD | PREMIUM | 2026,Partner,New business,Small,Qualified,2950.0,0.291,0.405,1195.0,17,False
+3964,APORTI FINANCE | PREMIUM | 2026,Partner,New business,Medium,Discovery,40860.0,0.29,0.314,12826.0,36,False
+4142,VIGORELLI MANUFACTURING | FLEX | 2026,Partner,New business,Medium,Discovery,5580.0,0.289,0.314,1752.0,7,False
+4127,OLIBONI FOOD | FLEX | 2026,Partner,New business,Medium,Discovery,7890.0,0.287,0.314,2477.0,8,False
+4187,PETROCELLI HEALTHCARE | PREMIUM | 2026,Partner,New business,Small,Discovery,3930.0,0.286,0.314,1234.0,1,False
+4053,ZECCHINI RETAIL | CORE | 2026,Partner,New business,Small,Proposal,2340.0,0.284,0.503,1176.0,1,False
+3797,SCADUTO FOOD | CORE | 2026,Partner,New business,Medium,Negotiation,4050.0,0.283,0.625,2530.0,76,True
+4064,TACCHINI FOOD | CORE | 2026,Partner,New business,Medium,Discovery,5240.0,0.281,0.314,1645.0,16,False
+3947,BELLUCCI HOSPITALITY | FLEX | 2026,Partner,New business,Small,Qualified,4090.0,0.28,0.405,1657.0,32,True
+4103,CUTRUFO HEALTHCARE | CORE | 2026,Partner,New business,Small,Proposal,1200.0,0.279,0.503,603.0,5,False
+4056,BIXIO IT | PREMIUM | 2026,Partner,New business,Small,Discovery,1790.0,0.272,0.314,562.0,16,False
+4010,TIEPOLO CONSTRUCTION | CORE | 2026,Direct,New business,Medium,Proposal,5270.0,0.269,0.503,2649.0,18,False
+4199,VIGORELLI IT | CORE | 2026,Partner,New business,Micro,Discovery,1200.0,0.269,0.314,377.0,0,False
+3958,TOGNAZZI RETAIL | FLEX | 2026,Partner,New business,Medium,Proposal,5260.0,0.267,0.503,2644.0,11,False
+4111,NORDIO CONSTRUCTION | CORE | 2026,Direct,Upsell,Large,Discovery,6340.0,0.265,0.314,1990.0,9,False
+3910,GARRONE CONSTRUCTION | FLEX | 2026,Partner,New business,Large,Proposal,30540.0,0.261,0.503,15350.0,33,False
+4070,BERGOGLIO FOOD | CORE | 2026,Partner,New business,Medium,Proposal,3650.0,0.258,0.503,1835.0,6,False
+4008,FANTONI IT | PREMIUM | 2026,Partner,New business,Medium,Negotiation,19700.0,0.257,0.625,12309.0,3,False
+3854,MURATORI HOSPITALITY | CORE | 2026,Direct,New business,Medium,Negotiation,5030.0,0.257,0.625,3143.0,10,False
+4060,LOLLOBRIGIDA RETAIL | PREMIUM | 2026,Partner,New business,Micro,Negotiation,1200.0,0.257,0.625,750.0,4,False
+4102,CAMICIONE PROFESSIONAL | FLEX | 2026,Direct,New business,Small,Discovery,4100.0,0.256,0.314,1287.0,12,False
+4100,SCARAMUCCI RETAIL | FLEX | 2026,Direct,New business,Medium,Proposal,14060.0,0.256,0.503,7067.0,3,False
+4009,UDINESI FOOD | CORE | 2026,Direct,New business,Medium,Qualified,10510.0,0.255,0.405,4258.0,5,False
+4178,SCHICCHI PROFESSIONAL | CORE | 2026,Partner,New business,Large,Discovery,37930.0,0.251,0.314,11906.0,1,False
+4058,SEDDIO HOSPITALITY | FLEX | 2026,Partner,New business,Large,Discovery,20250.0,0.248,0.314,6356.0,16,False
+4002,SANTORO RETAIL | CORE | 2026,Direct,New business,Medium,Proposal,6700.0,0.247,0.503,3367.0,17,False
+4144,RIENZO LOGISTICS | CORE | 2026,Direct,New business,Small,Discovery,1200.0,0.244,0.314,377.0,6,False
+3990,BERGOGLIO FOOD | PREMIUM | 2026,Partner,New business,Medium,Qualified,8270.0,0.244,0.405,3351.0,22,False
+3699,TARTINI CONSTRUCTION | FLEX | 2026,Partner,New business,Large,Qualified,39840.0,0.244,0.405,16142.0,89,True
+4040,TAGLIAFIERRO PROFESSIONAL | PREMIUM | 2026,Partner,New business,Small,Discovery,6010.0,0.243,0.314,1886.0,19,False
+3984,BARESE IT | CORE | 2026,Direct,New business,Medium,Proposal,15270.0,0.24,0.503,7675.0,2,False
+3949,POERIO HEALTHCARE | FLEX | 2026,Direct,New business,Medium,Discovery,7780.0,0.24,0.314,2442.0,44,True
+4045,LOREDAN CONSTRUCTION | CORE | 2026,Partner,New business,Micro,Proposal,1200.0,0.239,0.503,603.0,2,False
+4149,DUODO PROFESSIONAL | CORE | 2026,Direct,New business,Medium,Proposal,3990.0,0.236,0.503,2005.0,3,False
+3415,OSTINELLI LOGISTICS | CORE | 2026,Direct,New business,Medium,Proposal,4990.0,0.228,0.503,2508.0,29,False
+4030,ZAMPA PROFESSIONAL | FLEX | 2026,Direct,New business,Medium,Discovery,7010.0,0.226,0.314,2200.0,21,False
+4188,TIRABASSI CONSTRUCTION | CORE | 2026,Direct,New business,Small,Discovery,1970.0,0.224,0.314,618.0,1,False
+4147,MONDADORI CONSTRUCTION | CORE | 2026,Direct,New business,Small,Discovery,1200.0,0.223,0.314,377.0,6,False
+4068,CAMPANO HEALTHCARE | FLEX | 2026,Direct,New business,Small,Discovery,2510.0,0.221,0.314,788.0,15,False
+4113,FINOTTO CONSTRUCTION | FLEX | 2026,Direct,New business,Small,Qualified,2380.0,0.221,0.405,964.0,5,False
+4133,PACILLO FINANCE | CORE | 2026,Direct,New business,Small,Qualified,1200.0,0.217,0.405,486.0,0,False
+4023,PETRASSI CONSTRUCTION | PREMIUM | 2026,Direct,New business,Small,Proposal,2790.0,0.217,0.503,1402.0,8,False
+4031,FRACCI HOSPITALITY | FLEX | 2026,Partner,New business,Micro,Proposal,1200.0,0.214,0.503,603.0,15,True
+4200,CILEA PROFESSIONAL | CORE | 2026,Direct,New business,Medium,Discovery,12740.0,0.214,0.314,3999.0,0,False
+4189,SANDI HEALTHCARE | CORE | 2026,Direct,New business,Micro,Discovery,1200.0,0.214,0.314,377.0,1,False
+3930,SALVEMINI HOSPITALITY | FLEX | 2026,Partner,New business,Large,Negotiation,27410.0,0.213,0.625,17126.0,4,False
+3412,PERTINI CONSTRUCTION | CORE | 2026,Partner,New business,Large,Negotiation,19300.0,0.213,0.625,12059.0,45,False
+4110,BOITANI MANUFACTURING | CORE | 2026,Direct,New business,Small,Qualified,1850.0,0.213,0.405,750.0,3,False
+4165,PICCINNI HOSPITALITY | PREMIUM | 2026,Direct,New business,Medium,Discovery,9090.0,0.212,0.314,2853.0,2,False
+4136,CANALI RETAIL | PREMIUM | 2026,Direct,New business,Small,Discovery,1570.0,0.209,0.314,493.0,7,False
+4065,CACCIOPPOLI MANUFACTURING | CORE | 2026,Partner,New business,Large,Discovery,53030.0,0.206,0.314,16646.0,15,False
+4116,CONTE HEALTHCARE | CORE | 2026,Direct,New business,Medium,Discovery,4570.0,0.206,0.314,1434.0,9,False
+4096,SABBATINI FOOD | FLEX | 2026,Direct,New business,Small,Discovery,1880.0,0.205,0.314,590.0,12,False
+4139,MOCCIA HEALTHCARE | CORE | 2026,Direct,New business,Medium,Discovery,3440.0,0.204,0.314,1080.0,7,False
+4183,DONATONI RETAIL | PREMIUM | 2026,Direct,New business,Small,Discovery,5790.0,0.203,0.314,1817.0,1,False
+4101,FERRATA IT | FLEX | 2026,Direct,New business,Small,Qualified,4600.0,0.202,0.405,1864.0,4,False
+3843,MINIATI PROFESSIONAL | CORE | 2026,Direct,New business,Medium,Proposal,7220.0,0.202,0.503,3629.0,35,False
+4132,SATRIANI FOOD | PREMIUM | 2026,Direct,New business,Small,Discovery,5380.0,0.201,0.314,1689.0,7,False
+4027,LUPO PROFESSIONAL | FLEX | 2026,Partner,New business,Large,Qualified,24910.0,0.201,0.405,10093.0,1,False
+4180,IANNUZZI LOGISTICS | CORE | 2026,Direct,New business,Micro,Discovery,1200.0,0.199,0.314,377.0,1,False
+4054,PETROCELLI IT | FLEX | 2026,Direct,New business,Micro,Qualified,1200.0,0.192,0.405,486.0,9,False
+4000,BOAGA HOSPITALITY | CORE | 2026,Direct,New business,Micro,Negotiation,1200.0,0.188,0.625,750.0,2,False
+4186,CHIESA FINANCE | PREMIUM | 2026,Direct,New business,Small,Qualified,1710.0,0.187,0.405,693.0,0,False
+4115,PIZZO FINANCE | CORE | 2026,Direct,New business,Medium,Proposal,3060.0,0.182,0.503,1538.0,6,False
+4037,AGAZZI MANUFACTURING | PREMIUM | 2026,Partner,New business,Large,Discovery,77630.0,0.179,0.314,24367.0,20,False
+4089,ARGAN HEALTHCARE | PREMIUM | 2026,Direct,New business,Small,Discovery,1800.0,0.179,0.314,565.0,13,False
+4044,GULOTTA HEALTHCARE | FLEX | 2026,Direct,New business,Micro,Discovery,1200.0,0.177,0.314,377.0,19,True
+4176,MOGHERINI LOGISTICS | CORE | 2026,Direct,New business,Micro,Discovery,1200.0,0.177,0.314,377.0,1,False
+4094,COLLODI HEALTHCARE | PREMIUM | 2026,Direct,New business,Small,Discovery,5700.0,0.169,0.314,1789.0,12,False
+4125,PUGLIESE LOGISTICS | CORE | 2026,Direct,New business,Micro,Proposal,1200.0,0.168,0.503,603.0,1,False
+4014,GARRONE CONSTRUCTION | CORE | 2026,Direct,New business,Large,Qualified,24700.0,0.167,0.405,10008.0,2,False
+4076,BAGGIO FOOD | PREMIUM | 2026,Direct,New business,Small,Proposal,2060.0,0.162,0.503,1035.0,6,False
+4112,GIANNINI FOOD | PREMIUM | 2026,Direct,New business,Micro,Discovery,1200.0,0.159,0.314,377.0,9,False
+3850,VIRGILIO HOSPITALITY | FLEX | 2026,Direct,New business,Large,Negotiation,25650.0,0.154,0.625,16026.0,74,True
+3711,BEMBO MANUFACTURING | CORE | 2026,Direct,New business,Large,Proposal,15910.0,0.135,0.503,7996.0,82,False
+3968,INTERIANO LOGISTICS | CORE | 2026,Direct,New business,Large,Discovery,21190.0,0.123,0.314,6651.0,36,False

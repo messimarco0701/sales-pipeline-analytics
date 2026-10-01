@@ -1,0 +1,6 @@
+stage,deals_reached,conversion_from_previous,conversion_from_start,deals_lost_here,share_of_all_losses
+Discovery,3995,,1.0,900,0.328
+Qualified,3095,0.775,0.775,600,0.219
+Proposal,2495,0.806,0.625,488,0.178
+Negotiation,2007,0.804,0.502,753,0.275
+Closed Won,1254,0.625,0.314,0,0.0

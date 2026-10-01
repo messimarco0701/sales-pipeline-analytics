@@ -1,0 +1,34 @@
+feature,coefficient,odds_ratio
+channel_Referral,0.65,1.916
+deal_type_Upsell,0.399,1.491
+size_segment_Small,0.233,1.263
+sector_Healthcare,0.169,1.184
+sector_Manufacturing,0.162,1.176
+size_segment_Micro,0.142,1.152
+sector_Finance,0.133,1.142
+partner_type_Broker,0.092,1.096
+size_segment_Medium,0.067,1.069
+partner_type_Payroll consultant,0.051,1.052
+partner_type_No partner,0.04,1.04
+product_Flex,0.023,1.023
+log_amount,0.022,1.022
+product_Core,0.021,1.021
+log_employees,0.01,1.01
+sector_Hospitality,-0.0,1.0
+region_Nord-Ovest,-0.003,0.997
+sector_Logistics,-0.005,0.995
+sector_Professional services,-0.007,0.993
+region_Nord-Est,-0.041,0.96
+region_Sud e Isole,-0.041,0.959
+region_Centro,-0.06,0.942
+partner_type_Accounting firm,-0.088,0.916
+sector_IT services,-0.1,0.905
+sector_Construction,-0.111,0.895
+sector_Food & beverage,-0.117,0.889
+channel_Partner,-0.185,0.831
+product_Premium,-0.19,0.827
+partner_type_Trade association,-0.24,0.787
+sector_Retail,-0.27,0.764
+deal_type_New business,-0.545,0.58
+size_segment_Large,-0.588,0.556
+channel_Direct,-0.611,0.543

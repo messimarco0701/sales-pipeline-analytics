@@ -1,0 +1,19 @@
+rank,partner_name,partner_type,deals,won_deals,bookings,share,cumulative_share,in_top_80pct
+1,Rete Moccia,Payroll consultant,408,134,669690.0,0.279,0.279,True
+2,Studio Contrafatto,Accounting firm,198,57,361100.0,0.15,0.429,True
+3,Studio Peruzzi,Trade association,143,54,227830.0,0.095,0.524,True
+4,Consulenti Bonolis,Payroll consultant,91,25,160350.0,0.067,0.591,True
+5,Studio Ossola,Broker,82,26,143550.0,0.06,0.65,True
+6,Gruppo Bellucci,Broker,91,29,133910.0,0.056,0.706,True
+7,Studio Caccianemico,Trade association,77,24,113930.0,0.047,0.753,True
+8,Studio Bevilacqua,Payroll consultant,43,12,84460.0,0.035,0.789,True
+9,Gruppo Brichese,Payroll consultant,38,17,82060.0,0.034,0.823,True
+10,Consulenti Valentino,Accounting firm,67,22,69360.0,0.029,0.852,False
+11,Gruppo Tomaselli,Accounting firm,67,23,68740.0,0.029,0.88,False
+12,Gruppo Prodi,Trade association,38,9,58890.0,0.025,0.905,False
+13,Consulenti Bonatti,Broker,37,11,57820.0,0.024,0.929,False
+14,Gruppo Buonauro,Accounting firm,31,8,52930.0,0.022,0.951,False
+15,Consulenti Giunti,Payroll consultant,29,11,40330.0,0.017,0.968,False
+16,Gruppo Baresi,Broker,51,10,29320.0,0.012,0.98,False
+17,Studio Gabbana,Trade association,56,13,26760.0,0.011,0.991,False
+18,Studio Ritacca,Accounting firm,47,16,21740.0,0.009,1.0,False
